@@ -23,7 +23,7 @@ SAMY![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4
 
 ![Samy's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamdwivedi1403&theme=codeSTACKr)
 
-![Samy's GitHub stats]<p><img align="left" display="block" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamdwivedi1403&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="shivamdwivedi1403" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamdwivedi1403&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="shivamdwivedi1403" /></p>
 
 ![Samy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamdwivedi1403&count_private=true&show_icons=true&theme=codeSTACKr)
 
