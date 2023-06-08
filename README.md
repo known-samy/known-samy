@@ -31,7 +31,7 @@ SAMY![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4
 
 ![Samy's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamdwivedi1403&theme=codeSTACKr)
 
-![Snake animation](https://github.com/shivamdwivedi1403/shivamdwivedi1403/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamdwivedi1403&show_icons=true&locale=en" alt="shivamdwivedi1403" /></p>
