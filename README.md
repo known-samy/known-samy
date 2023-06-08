@@ -1,4 +1,5 @@
-SAMY![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+SAMY
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Shivam Dwivedi</h1>
 <h3 align="center">A passionated frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -31,7 +32,7 @@ SAMY![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4
 
 ![Samy's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamdwivedi1403&theme=codeSTACKr)
 
-![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamdwivedi1403&show_icons=true&locale=en" alt="shivamdwivedi1403" /></p>
