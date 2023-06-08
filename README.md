@@ -17,12 +17,13 @@ SAMY![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4
 <p><img align="left" display="block" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamdwivedi1403&show_icons=true&locale=en&layout=compact" alt="shivamdwivedi1403" /></p>
 
 
-![Shriansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamdwivedi1403&count_private=true&show_icons=true&theme=radical)
 
-![Shriansh's Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shivamdwivedi1403&theme=highcontrast&ring=D8397C&fire=D8397C&currStreakLabel=D8397C)
 
-![Shriansh's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamdwivedi1403&theme=radical)
+![Samy's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamdwivedi1403&theme=codeSTACKr)
 
+![Samy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamdwivedi1403&count_private=true&show_icons=true&theme=codeSTACKr)
+
+![Samy's Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shivamdwivedi1403&theme=highcontrast&ring=D8397C&fire=D8397C&currStreakLabel=D8397C)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamdwivedi1403&show_icons=true&locale=en" alt="shivamdwivedi1403" /></p>
 
