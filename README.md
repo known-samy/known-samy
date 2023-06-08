@@ -1,7 +1,5 @@
-![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-
-<img align="right" alt="Coding" src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg">
+<img align="center" alt="Coding" src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg">
 
 <h1 align="center">Hi 👋, I'm Shivam Dwivedi</h1>
 <h3 align="center">A passionated frontend developer from India</h3>
