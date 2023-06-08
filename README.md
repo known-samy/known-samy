@@ -30,7 +30,7 @@ SAMY![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4
 
 ![Samy's Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shivamdwivedi1403&theme=codeSTACKr&ring=D8397C&fire=D8397C&currStreakLabel=D8397C&theme=codeSTACKr)
 
-![Samy's Github Streaks](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamdwivedi1403&theme=codeSTACKr)
+![Samy's Github Streaks]<p align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamdwivedi1403&theme=codeSTACKr"></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamdwivedi1403&show_icons=true&locale=en" alt="shivamdwivedi1403" /></p>
 
