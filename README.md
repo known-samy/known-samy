@@ -6,7 +6,7 @@
 
 <h1 align="center">Hello,It's Me <i>Shivam Dwivedi</i></h1>
 <h3 align="center">A passionate frontend developer from India<sup>IN</sup></h3>
-<img align="right" alt="Coding" width="500" src="8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="right" alt="Coding" width="450" src="8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 
 
