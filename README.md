@@ -4,11 +4,18 @@ SAMY
 <!--
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif) 
 -->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+-->
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/known-samy/known-samy/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 <!-- <a href="https://github.com/Shivamdwivedi1403" target="_blank" >
@@ -57,6 +64,10 @@ SAMY
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamdwivedi1403&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="shivamdwivedi1403" /></p>
 
 ![Samy's Github Streaks](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamdwivedi1403&theme=codeSTACKr)
+<!--
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=known-samy&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+-->
 
 ![Samy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamdwivedi1403&count_private=true&show_icons=true&theme=codeSTACKr)
 
