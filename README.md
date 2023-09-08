@@ -13,7 +13,7 @@ SAMY
 -->
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/known-samy/known-samy/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/known-samy/known-samy/blob/output/github-contribution-grid-snake.svg)
 
 
 
