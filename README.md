@@ -13,7 +13,7 @@ SAMY
 -->
 
 ### 📈 My GitHub Contributions
-![snake gif](https://github.com/known-samy/known-samy/blob/output/github-contribution-grid-snake.svg)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/known-samy/known-samy/output/github-contribution-grid-snake.svg?username=shivamdwivedi1403&theme=codeSTACKr" />
 
 
 
