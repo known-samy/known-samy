@@ -23,9 +23,12 @@ SAMY
 </a> -->
 
 
-
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Dwivedi+!;" />
+</h1>
+<!--
 <h1 align="center">Hello,It's Me <i>Shivam Dwivedi</i></h1>
+-->
 <h3 align="center">A passionate frontend developer from India<sup>IN</sup></h3>
 <img align="right" alt="Coding" width="400" src="final_main.png">
 <!-- <img align="right" alt="Coding" width="450" src="8b35fef55fba1a201c9c7a11d3ec3d64.gif"> -->
