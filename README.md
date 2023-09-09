@@ -7,7 +7,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Dwivedi+!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Dwivedi+!;" />
 <h3 align="center">A passionate frontend developer from India<sup>IN</sup></h3>
 <img align="right" alt="Coding" width="400" src="final_main.png">
 
@@ -52,7 +52,7 @@
 
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=known-samy&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="shivamdwivedi1403" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=known-samy&show_icons=true&locale=en&layout=compact&theme=codeSTACKr"&alt="shivamdwivedi1403" /></p>
 
 ![Samy's Github Streaks](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=known-samy&theme=codeSTACKr)
 <!--
