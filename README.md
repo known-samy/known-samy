@@ -66,8 +66,18 @@
 <!--
 ![Samy's Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=known-samy&theme=codeSTACKr&ring=D8397C&theme=codeSTACKr&fire=D8397C&theme=codeSTACKr&currStreakLabel=D8397C&theme=codeSTACKr)
 -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=known-samy&theme=codeSTACKr&hide_border=false)<br/>
+
 ![Samy's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=known-samy&theme=codeSTACKr)
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 🏆 GitHub Trophies
