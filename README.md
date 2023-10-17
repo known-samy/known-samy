@@ -37,39 +37,36 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
+
+
+
+
+<!-- ===================SAMY'S COMPONENTS======================= -->
+
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=known-samy&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=known-samy&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=known-samy&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin: 30px" height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=known-samy&show_icons=true&locale=en&layout=compact&theme=codeSTACKr"&alt="shivamdwivedi1403" />
+    <img style="margin: 30px" height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=known-samy&theme=codeSTACKr" />
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: flex;">
+    <img style="margin: 30px" height=180 src="https://github-readme-stats.vercel.app/api?username=known-samy&count_private=true&show_icons=true&theme=codeSTACKr"&alt="shivamdwivedi1403" /> 
+    <img style="margin: 30px" height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=known-samy&theme=codeSTACKr&ring=FC6600&theme=codeSTACKr&fire=codeSTACKr&theme=codeSTACKr&currStreakLabel=FC6600&theme=codeSTACKr" />
+    <img style="margin: 30px" height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=known-samy&theme=codeSTACKr" />
+
+  </div>
+</div>
 
 
 
 
 
 
-
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=known-samy&show_icons=true&locale=en&layout=compact&theme=codeSTACKr"&alt="shivamdwivedi1403" /></p>
-
-![Samy's Github Streaks](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=known-samy&theme=codeSTACKr)
-
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=known-samy&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
--->
-
-![Samy's GitHub stats](https://github-readme-stats.vercel.app/api?username=known-samy&count_private=true&show_icons=true&theme=codeSTACKr)
-<!--
-![Samy's Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=known-samy&theme=codeSTACKr&ring=D8397C&theme=codeSTACKr&fire=D8397C&theme=codeSTACKr&currStreakLabel=D8397C&theme=codeSTACKr)
--->
-![](https://github-readme-streak-stats.herokuapp.com/?user=known-samy&theme=codeSTACKr&hide_border=false)<br/>
-
-![Samy's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=known-samy&theme=codeSTACKr)
-
+<!-- =======================QUOTES====================== -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
@@ -77,12 +74,8 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=known-samy&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
-
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
