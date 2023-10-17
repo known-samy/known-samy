@@ -56,15 +56,16 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=known-samy&show_icons=true&locale=en&layout=compact&theme=codeSTACKr"&alt="shivamdwivedi1403" /></p>
 
 ![Samy's Github Streaks](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=known-samy&theme=codeSTACKr)
+
 <!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=known-samy&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 -->
 
 ![Samy's GitHub stats](https://github-readme-stats.vercel.app/api?username=known-samy&count_private=true&show_icons=true&theme=codeSTACKr)
-
+<!--
 ![Samy's Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=known-samy&theme=codeSTACKr&ring=D8397C&theme=codeSTACKr&fire=D8397C&theme=codeSTACKr&currStreakLabel=D8397C&theme=codeSTACKr)
-
+-->
 ![Samy's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=known-samy&theme=codeSTACKr)
 
 
