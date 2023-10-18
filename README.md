@@ -55,7 +55,7 @@
 <div align="center">
   <div style="display: flex;">
     <img style="margin: 30px" height=180 src="https://github-readme-stats.vercel.app/api?username=known-samy&count_private=true&show_icons=true&theme=codeSTACKr"&alt="shivamdwivedi1403" /> 
-    <img style="margin: 30px" height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=known-samy&theme=codeSTACKr&ring=FC6600&theme=codeSTACKr&fire=codeSTACKr&theme=codeSTACKr&currStreakLabel=FC6600&theme=codeSTACKr" />
+    <img style="margin: 30px" height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=known-samy&theme=FC6600&ring=FC6600&theme=FC6600&fire=codeSTACKr&theme=codeSTACKr&currStreakLabel=FC6600&theme=codeSTACKr" />
     <img style="margin: 30px" height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=known-samy&theme=codeSTACKr" />
 
   </div>
