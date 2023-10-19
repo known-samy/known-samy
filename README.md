@@ -68,14 +68,27 @@
 
 <!-- =======================QUOTES====================== -->
 
+<!--
+<div align="center">
+  <div style="display: flex align="center;">
+    ### 😂 Random Dev Meme
+    <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+    ### 😂 Random Dev Meme
+    <img src='[https://randommeme-five.vercel.app/](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical' style="height: 400px;"/>
+  </div>
+</div>
+-->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=known-samy&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
+-->
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
