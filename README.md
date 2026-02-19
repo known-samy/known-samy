@@ -47,14 +47,14 @@
 
 <div align="center">
   <div style="display: flex;">
-    <img style="margin: 30px" height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=known-samy&show_icons=true&locale=en&layout=compact&theme=codeSTACKr"&alt="shivamdwivedi1403" />
+    <!-- <img style="margin: 30px" height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=known-samy&show_icons=true&locale=en&layout=compact&theme=codeSTACKr"&alt="shivamdwivedi1403" /> -->
     <img style="margin: 30px" height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=known-samy&theme=codeSTACKr" />
   </div>
 </div>
 
 <div align="center">
   <div style="display: flex;">
-    <img style="margin: 30px" height=180 src="https://github-readme-stats.vercel.app/api?username=known-samy&count_private=true&show_icons=true&theme=codeSTACKr"&alt="shivamdwivedi1403" /> 
+    <!-- <img style="margin: 30px" height=180 src="https://github-readme-stats.vercel.app/api?username=known-samy&count_private=true&show_icons=true&theme=codeSTACKr"&alt="shivamdwivedi1403" />  -->
     <img style="margin: 30px" height=180  src="https://github-readme-streak-stats.herokuapp.com/?user=known-samy&theme=codeSTACKr" alt="known-samy" />
     <img style="margin: 30px" height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=known-samy&theme=codeSTACKr" />
 
